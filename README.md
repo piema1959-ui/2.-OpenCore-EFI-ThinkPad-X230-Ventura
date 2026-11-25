@@ -14,3 +14,4 @@ EFI folder tested for running **macOS Ventura 13.7.4** on a **Lenovo ThinkPad X2
 
 1. **Generate unique SMBIOS data:** Update `PlatformInfo -> Generic` in `config.plist` (`SystemSerialNumber`, `MLB`, `SystemUUID`, `ROM`) keeping the **MacBookPro14,1** profile.
 2. **Backup:** Keep a backup of your current working EFI on a USB stick.
+3. 
